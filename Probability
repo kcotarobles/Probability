@@ -1,0 +1,5 @@
+import java.util.Scanner;
+public class Probability {
+  public static int whatToCalculate {
+    System.out.println("enter the number corresponding to what you want to calculate: /n 1: probability of AnB /n 2: probability of AuB /n 3: A|B /n 4: E(X) /n 5: Var(X) /n 6: Standard Deviation")
+    
